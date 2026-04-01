@@ -23,6 +23,7 @@
 
 <h3 align="left"># 📱 MultiServicesApp </h3>  MultiServicesApp is a Flutter application that showcases everything I’ve learned in Flutter development, combining multiple core features with clean architecture and modern practices:
 
+
 • **📚 Bookly Feature** – displays books from a REST API and lets users filter results with advanced options.  
 • **📰 News Feature** – shows the latest news using a news API with filters for country, language, and category (e.g., business, science).  
 • **🗒️ Notes Feature** – allows users to take, edit, and delete daily notes stored locally using Hive.  
