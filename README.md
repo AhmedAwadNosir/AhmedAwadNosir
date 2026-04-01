@@ -28,7 +28,7 @@
 • **🗒️ Notes Feature** – allows users to take, edit, and delete daily notes stored locally using Hive.  
 • **💬 Real‑Time Chat Feature** – built with Firebase Firestore, enabling users to send and accept friend requests, join chat rooms, and exchange messages, files, images, and audio recordings.
 
-[![Download APK](https://github.com/AhmedAwadNosir/multiServicesApp/releases/download/v1.1.0/app-release.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK‑Here‑00BCD4?style=for-the-badge&logo=android&logoColor=white)](https://github.com/AhmedAwadNosir/multiServicesApp/releases/download/v1.1.0/app-release.apk)
 
 <h3 align="left">🎮 Count Four Game</h3> 
 
