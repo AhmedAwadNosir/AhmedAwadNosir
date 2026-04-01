@@ -1,5 +1,5 @@
 # 🏄‍♂️  Hi there 👋,I’m AhmedAwadNosir
-<h3 align="center">I'm Software Engineer & Flutter Developer with a strong passion for building elegant, responsive cross-platform applications and exploring cybersecurity.</h3>
+<h3 align="center">I'm Software Engineer & Flutter Developer with a strong passion for building elegant, responsive cross-platform applications by flutter and exploring cybersecurity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedAwadNosir&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedAwadNosir" /> </p>
 
