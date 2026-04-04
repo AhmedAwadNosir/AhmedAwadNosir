@@ -35,13 +35,13 @@
 
 Count Four Game App is a classic connect-four style puzzle where players take turns placing tokens to get **four in a row** — horizontally, vertically, or diagonally  to win.
 
-[![Download APK](https://img.shields.io/badge/Download-APK‑Here‑00BCD4?style=for-the-badge&logo=android&logoColor=white)](https://github.com/AhmedAwadNosir/Count_Four_Game)
+[![Download APK](https://img.shields.io/badge/Download-APK‑Here‑00BCD4?style=for-the-badge&logo=android&logoColor=white)](https://github.com/AhmedAwadNosir/countfour_game_app/releases/download/v1.0.0/app-release.apk)
 
 <h3 align="left">💼 Jobsque </h3> 
 
 Jobsque  is my Flutter course graduation project, designed to help people easily find job opportunities and apply for them.
 
-[![Download APK](https://img.shields.io/badge/Download-APK‑Here‑00BCD4?style=for-the-badge&logo=android&logoColor=white)](https://github.com/AhmedAwadNosir/Jobsque---Job-Finder-App)
+[![Download APK](https://img.shields.io/badge/Download-APK‑Here‑00BCD4?style=for-the-badge&logo=android&logoColor=white)](https://github.com/AhmedAwadNosir/Jobsque---Job-Finder-App/releases/download/v1.0.0/app-release.apk)
 
 <h3 align="left">📰 News</h3> 
 
