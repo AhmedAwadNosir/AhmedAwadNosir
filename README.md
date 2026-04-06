@@ -43,11 +43,12 @@ Jobsque  is my Flutter course graduation project, designed to help people easily
 
 [![Download APK](https://img.shields.io/badge/Download-APK‑Here‑00BCD4?style=for-the-badge&logo=android&logoColor=white)](https://github.com/AhmedAwadNosir/Jobsque---Job-Finder-App/releases/download/v1.0.0/app-release.apk)
 
-<h3 align="left">📰 News</h3> 
+<h3 align="left">📚 Bookly App</h3> 
 
-News App helps people stay updated with the latest news and read every new article in one place.
+A modern Flutter application that allows users to explore and discover books using the powerful **Google Books API**.  
+The app provides a smooth and responsive experience with advanced filtering and detailed book information.
 
-[![Download APK](https://img.shields.io/badge/Download-APK‑Here‑00BCD4?style=for-the-badge&logo=android&logoColor=white)](https://github.com/AhmedAwadNosir/News_App)
+[![Download APK](https://img.shields.io/badge/Download-APK‑Here‑00BCD4?style=for-the-badge&logo=android&logoColor=white)](https://github.com/AhmedAwadNosir/Bookly_app/releases/download/v1.0.0/app-release.apk)
 
 <h3 align="left">🗒️ Notes App</h3> 
 
