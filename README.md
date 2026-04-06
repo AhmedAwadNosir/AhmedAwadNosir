@@ -51,9 +51,10 @@ News App helps people stay updated with the latest news and read every new artic
 
 <h3 align="left">🗒️ Notes App</h3> 
 
-Notes App helps users take notes about daily activities, edit or delete them, and create to-do lists easily.
+A powerful and simple Flutter application that helps users organize their daily life by managing Notes and Tasks efficiently.
+The app uses local storage with Hive and Cubit (Bloc) for state management to ensure high performance and smooth user experience.
 
-[![Download APK](https://img.shields.io/badge/Download-APK‑Here‑00BCD4?style=for-the-badge&logo=android&logoColor=white)](https://github.com/AhmedAwadNosir/notes_app_gstore)
+[![Download APK](https://img.shields.io/badge/Download-APK‑Here‑00BCD4?style=for-the-badge&logo=android&logoColor=white)](https://github.com/AhmedAwadNosir/MyNotesApp/releases/download/v1.0.0/app-release.apk)
 
 <hr></hr>
 
