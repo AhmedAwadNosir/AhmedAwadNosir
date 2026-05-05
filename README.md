@@ -12,10 +12,15 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmed-awad-nosir-60b5a2386/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharwat-samy-363aa7177/" height="30" width="40" /></a>
+ <p align="left">
 <a href="https://www.facebook.com/AhmedAwadNosir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharwat samy" height="30" width="40" /></a>
 
 
 
+---
+## 📄 Resume
+
+🔗 [View My CV](https://github.com/AhmedAwadNosir/MyCv/blob/eeb10ee896d33fd61ce8b22138252aa791d7e6ae/ahmedAwadCv.pdf)
 ---
 
 
